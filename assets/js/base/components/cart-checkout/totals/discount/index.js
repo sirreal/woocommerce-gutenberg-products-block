@@ -56,7 +56,7 @@ const TotalsDiscount = ( {
 									className="wc-block-components-totals-discount__coupon-list-item"
 									text={ cartCoupon.code }
 									screenReaderText={ sprintf(
-										/* Translators: %s Coupon code. */
+										/* translators: %s Coupon code. */
 										__(
 											'Coupon: %s',
 											'woo-gutenberg-products-block'
